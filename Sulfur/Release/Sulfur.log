@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\noggo\Downloads\Sulfur2.4.2-master\Sulfur2.4.2-master\Sulfur\dllmain.cpp(63,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FN_Basic.cpp
+C:\Users\noggo\Downloads\Sulfur2.4.2-master\Sulfur2.4.2-master\Sulfur\SDK\FN_Basic.cpp(28,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FN_CoreUObject_functions.cpp
+C:\Users\noggo\Downloads\Sulfur2.4.2-master\Sulfur2.4.2-master\Sulfur\SDK\FN_CoreUObject_functions.cpp(91,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FN_Engine_functions.cpp
+C:\Users\noggo\Downloads\Sulfur2.4.2-master\Sulfur2.4.2-master\Sulfur\SDK\FN_Engine_functions.cpp(66087,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  FN_FortniteGame_functions.cpp
+C:\Users\noggo\Downloads\Sulfur2.4.2-master\Sulfur2.4.2-master\Sulfur\SDK\FN_FortniteGame_functions.cpp(88720,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
